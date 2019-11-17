@@ -23,8 +23,8 @@ def happy_birthday(birthday_kids)
   end
 end
 
-birthday_kids = {
+happy_birthday([birthday_kids = {
   "Timmy" => 9,
   "Sarah" => 6,
   "Amanda" => 27
-}
+}])
