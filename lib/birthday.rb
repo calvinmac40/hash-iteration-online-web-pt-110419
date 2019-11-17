@@ -12,6 +12,7 @@ def happy_birthday(birthday_kids)
   else
     puts "You are too old fo this"
   end
+  end
 end
 
 
