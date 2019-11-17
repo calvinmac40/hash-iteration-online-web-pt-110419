@@ -15,7 +15,6 @@ passengers.each do |suite, name|
 end
 
 winner
-  # add the code snippet here!
 end
 
 def happy_birthday(birthday_kids)
@@ -23,3 +22,4 @@ def happy_birthday(birthday_kids)
     puts "Happy Birthday #{kids_name}! You are now #{age} years old!"
   end
 end
+
